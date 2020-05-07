@@ -1,1 +1,1 @@
-# Web_mining_Fake_news
+Fake_News_Classification
